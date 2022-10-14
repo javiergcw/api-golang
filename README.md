@@ -64,7 +64,7 @@ Luego de clonarlo, es de suma importancia realizar paso 2 y 3.
 
 ```bash
 # Paso 1: Clonar el repositorio
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/javiergcw/api-golang.git
 
 # Paso 2: Dependecias gorilla 
 $ go get github.com/gorilla/mux
