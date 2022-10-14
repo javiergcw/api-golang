@@ -25,7 +25,7 @@
 
 </p>
 
-## Funciones
+## REQUISITOS
 
 * Permite realizar las siguientes acciones con el ticket:
     - [x] Crear
@@ -59,7 +59,7 @@ UpdateDate   string `json:"UpdateDate"`
 ## Descargar
 
 Para descargar y compilar es necesario [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/)
-, [Go](https://go.dev)
+, [Go](https://go.dev), SE RECOMIENDA EL USO DEL IDE [GO JETBRAINS](https://www.jetbrains.com/es-es/go/)
 Luego de clonarlo, es de suma importancia realizar paso 2 y 3.
 
 ```bash
